@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+    <file>images/newrecept.png</file>
+    <file>images/receptclear.png</file>
+    </qresource>
+</RCC>
